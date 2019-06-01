@@ -104,3 +104,6 @@ venv.bak/
 .mypy_cache/
 
 adult.csv
+adult_clean.csv
+adult_smote.csv
+test.csv
